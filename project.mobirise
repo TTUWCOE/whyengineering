@@ -204,7 +204,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Water Contaminant Fate &amp; Behavior in the Environment \n<br><a href=\"http://www.depts.ttu.edu/ceweb/faculty/faculty.php?name=Danny%20Reible\" target=\"_blank\"><b>Danny Reible, Ph.D., P.E.</b></a> \n<br>Department: <a href=\"http://www.depts.ttu.edu/ceweb/\" target=\"_blank\">Civil, Environmental and Construction Engineering&nbsp;</a>",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Responsive",
@@ -282,19 +282,19 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Petroleum Reserves, Evaluation &amp; Economics \n<br><a href=\"http://www.depts.ttu.edu/pe/faculty/marshall_watson/index.php\" target=\"_blank\"><b>Marshall Watson, Ph.D., P.E.</b> </a>\n<br>Department: <a href=\"http://www.depts.ttu.edu/pe/\" target=\"_blank\">Petroleum Engineering</a>",
-                "active": false
+                "active": true
               },
               {
-                "tags": "Responsive",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2018-8-4-13-29-23-468321.jpg",
+                "tags": "Awesome",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-8-4-9-56-30-448496.jpg",
                 "playVideo": true,
-                "videoUrl": "https://youtu.be/099L8hXN5GU",
-                "image": "@THEME_PATH@/components/_images/gallery/gallery06.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/gallery06.jpg",
+                "videoUrl": "https://youtu.be/dv616D_b8nY",
+                "image": "@THEME_PATH@/components/_images/gallery/gallery00.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/gallery00.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Power Electronics, Energy Processing &amp; Efficiency &nbsp;<br><a></a><a href=\"https://www.depts.ttu.edu/ece/faculty/stephen_bayne/index.php\" target=\"_blank\">Stephen Bayne</a><b></b><b><a href=\"https://www.depts.ttu.edu/ece/faculty/stephen_bayne/index.php\" target=\"_blank\">, Ph.D.</a></b><a href=\"https://www.depts.ttu.edu/ece/faculty/stephen_bayne/index.php\" target=\"_blank\">&nbsp;</a><br>Department: <a href=\"https://www.depts.ttu.edu/ece/\" target=\"_blank\">Electrical &amp; Computer&nbsp;Engineering</a>",
+                "caption": "Power Electronics, Energy Processing &amp; Efficiency&nbsp;<br><a href=\"https://www.depts.ttu.edu/ece/faculty/stephen_bayne/index.php\" target=\"_blank\"><b>Stephen Bayne, Ph.D.</b></a>&nbsp;<br>Department: <a href=\"https://www.depts.ttu.edu/ece/\" target=\"_blank\">Electrical &amp; Computer&nbsp;Engineering&nbsp;</a>",
                 "active": false
               }
             ]
