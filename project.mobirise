@@ -41,8 +41,8 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 70,
-    "versionPublish": "4.8.8",
+    "uniqCompNum": 72,
+    "versionPublish": "4.9.3",
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": ""
@@ -194,6 +194,19 @@
             "gallery__filtersBtnStyle": "btn-primary-outline",
             "gallery": [
               {
+                "tags": "Responsive",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2019118-124152019-1-1-12-6-10.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/igNedX5LtXU",
+                "image": "@THEME_PATH@/components/_images/gallery/gallery06.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/gallery06.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Nonlinear System Control Methods and Algorithm Design &nbsp;<br><a href=\"http://www.depts.ttu.edu/pe/faculty/marshall_watson/index.php\" target=\"_blank\"><b></b></a><b><a href=\"https://www.depts.ttu.edu/me/faculty/beibei_ren/index.php\" target=\"_blank\">Beibei 'Helen' Ren, Ph.D.</a></b><a href=\"https://www.depts.ttu.edu/me/faculty/beibei_ren/index.php\" target=\"_blank\">&nbsp;</a><br>Department:<a href=\"https://www.depts.ttu.edu/me/\" target=\"_blank\">&nbsp;Mechanical Engineering</a>",
+                "active": true
+              },
+              {
                 "tags": "Awesome",
                 "videoPreview": "@PROJECT_PATH@/assets/images/2018-7-4-11-33-31-51013.jpg",
                 "playVideo": true,
@@ -270,19 +283,6 @@
                 "customStyle1": "display-7",
                 "caption": "Micro- &amp; Nano Systems for Drug &amp; Vaccine Delivery\n<br><a href=\"http://www.depts.ttu.edu/che/faculty/harvinder_singh_gill/index.php\" target=\"_blank\"><b>Harvinder Gill, Ph.D.</b></a>  \n<br>Department:<a href=\"https://www.depts.ttu.edu/che/index.php\" target=\"_blank\"> Chemical Engineering</a>",
                 "active": false
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2018-7-4-11-34-40-231691.jpg",
-                "playVideo": true,
-                "videoUrl": "https://youtu.be/rAX0cWyn3D4",
-                "image": "@THEME_PATH@/components/_images/gallery/gallery06.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/gallery06.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Petroleum Reserves, Evaluation &amp; Economics \n<br><a href=\"http://www.depts.ttu.edu/pe/faculty/marshall_watson/index.php\" target=\"_blank\"><b>Marshall Watson, Ph.D., P.E.</b> </a>\n<br>Department: <a href=\"http://www.depts.ttu.edu/pe/\" target=\"_blank\">Petroleum Engineering</a>",
-                "active": true
               },
               {
                 "tags": "Awesome",
